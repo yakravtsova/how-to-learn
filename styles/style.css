@@ -277,11 +277,9 @@
 }
 
 .footer__column-links {
-  color: white;
-  text-decoration: none;
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: normal;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .footer__column_content_info {
@@ -314,4 +312,7 @@
 .footer__column-link {
   color: white;
   text-decoration: none;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
 }
